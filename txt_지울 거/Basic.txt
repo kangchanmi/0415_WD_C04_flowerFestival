@@ -1,0 +1,3 @@
+ul 서브 메뉴
+
+nav#gnb>ul#mainMenu>li*4>a[href=#]+ul.subMenu>li*4>a[href=#]
